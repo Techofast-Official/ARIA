@@ -47,8 +47,7 @@ Welcome to the **ARIA: Augmented Retrieval & Insight Agent** – an AI-powered a
 
 1. **Clone the repo & install dependencies:**
     ```sh
-    git clone <your-repo-url>
-    cd AI_Assitant\ deployee
+    git clone https://github.com/Techofast-Official/ARIA
     pip install -r requirements.txt
     ```
 
