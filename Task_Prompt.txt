@@ -1,0 +1,17 @@
+The following insight-attributes have to be extracted from the conversation:
+issue_area: {Order, Login and Account, Shopping, Cancellations and returns, Warranty, Shipping}
+issue_category
+issue_sub_category
+issue_complexity: {medium, high, small}
+product_category: {Electronics, Men/Women/Kids, Appliances}
+product_sub_category: {product type: like Wet Grinder, Diaper, Printer, Ceiling Fan, Dishwasher, Headphone, Backpack etc}
+customer_pain_points: Specific issues or challenges raised by the customer.
+solutions_proposed: Solutions or suggestions provided during the conversation.
+followup_required: Any follow-up actions needed (Yes/No).
+action_items: Tasks or actions decided upon during the conversation.
+customer_satisfaction: Whether the customer is satisfied or not (Yes/No).
+satisfaction_level: A rating scale between 0 to 5 to quantify the customer's satisfaction level. The output should be a numeric value (0,1,2,3,4,5)
+customer_sentiment_summary: A brief summary of the customer's overall sentiment throughout the conversation.
+representative_tone: Representative's tone during the conversation.
+intent: Identification of the customer's intent behind the conversation (e.g., complaint, inquiry, feedback)
+conversation_summary: Summary of the conversation in 150 words.
