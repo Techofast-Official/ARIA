@@ -113,6 +113,9 @@ Welcome to the **ARIA: Augmented Retrieval & Insight Agent** – an AI-powered a
 
 ---
 
+[![Watch the demo](https://img.youtube.com/vi/lIzwvYZBkVM/0.jpg)](https://youtu.be/lIzwvYZBkVM)
+
+
 ## 🤝 Contributing
 
 Pull requests and suggestions are welcome!  
