@@ -126,4 +126,4 @@ MIT License
 
 ---
 
-> Built with ❤️ and AI by Mohd Ahmad Ansari
+> Built with ❤️ by Mohd Ahmad Ansari
